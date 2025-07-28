@@ -1,3 +1,3 @@
-Godot 4 Virtual Joystick demo:
+Virtual Joystick demo with godot game engine
 
-https://godotengine.org/
+
